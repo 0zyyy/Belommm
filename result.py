@@ -116,7 +116,7 @@ def main():
 
     # Set these options to True to enable them automatically
     enable_auto_play = True
-    enable_auto_task = True
+    enable_auto_task = False
 
     while True:
         try:
